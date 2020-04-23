@@ -1,0 +1,52 @@
+  body{
+    margin: 0px;
+    padding: 0px;
+    background-size: cover;
+    }
+ 
+  .about{
+    background-color: #DEE0E0;	
+    }
+
+  .about-planets{
+    background-color: #DEE0E0;
+    box-shadow: 5px 5px 20px 10px;
+    }
+ 
+
+  #about-button{
+    border-radius: 16px;
+    background-color: #FF4F5B;
+    }
+
+  #more {
+    display: none;
+    }
+
+  #about-collapse {
+    font-family: font-family: "Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", "Helvetica Neue", Helvetica, Arial, sans-serif;;
+    font-size: 20px;
+    position:absolute;
+    color: #6d6d6d;
+    position: absolute;
+    top: 33%;
+    left: 15%;
+  }
+
+ #about-gear {
+    top:20%;
+    position: absolute;
+    left:55%;
+    width:40%
+  }
+
+.about-heading {
+   font-family: 'BebasNeueBold';
+   font-weight: normal;
+   font-style: normal;
+   font-size: 58px;
+   top:22%;
+   left:16%;
+   position:absolute;
+   color: #3f3f3f;
+  }
